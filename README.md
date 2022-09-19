@@ -9,4 +9,4 @@ Under the ``` .vscode ``` directory there are three json files
 |- launch.json
 |- tasks.json
 ``` 
-Just modify ``` cpptest.exe ``` and ``` cpptest.cpp ``` in ``` launch.json ``` and ``` tasks.json ``` into your own filename. Then Ctrl + Shift + B build the project.
+Just change ``` cpptest.exe ``` and ``` cpptest.cpp ``` in ``` launch.json ``` and ``` tasks.json ``` into your own filename. Then Ctrl + Shift + B build the project.
